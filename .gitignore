@@ -1,15 +1,10 @@
-# Python virtual environment
 venv/
 
-# Course datasets (not ours to publish)
 dataset/
 
-# Course PDFs (workbook, slides)
 *.pdf
 
-# Jupyter / Python caches
 .ipynb_checkpoints/
 __pycache__/
 
-# macOS
 .DS_Store
